@@ -17,7 +17,7 @@
 </center>
 <br><br>
 <a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> <a href="profile.php" title="" target="">Profile</a>
-<br><br><br><br>
+<br><br>
 <table width=100%>
 <tr>
 <td width=20% valign=top>
@@ -34,26 +34,55 @@
 <a href="profile_as_seen_by_others.php" title="View profile as seen by others; Opens in a new window">View profile</a>
 </td>
 <td width=70% valign=top>
-Visibility 
-<br>
+Visibility on map and in the search results 
+<br><br>
 <input type=radio checked> Visible to everyone <input type=radio> Visible only to friends <input type=radio> Visible to none
-<br>
+<br><hr>
 I can be contacted by:
-<br>
+<br><br>
 <input type=radio checked> Everyone <input type=radio> Only to friends <input type=radio> No one (DND - do not disturb)
-<br>
-First name <input> Additional name <input> Family name <input>
-<br>
-Address <input> Additional line of address <input>
-<br>
-Post code <input> Place (town | city) <input>
-<br>
-Telephone <input>
-<br>
-E-mail address <input>
-<br>
-Gender <input type=radio> male <input type=radio> female
-<br>
+<br><hr>
+<table>
+<tr>
+<td>First name</td> <td><input></td>
+<td><input type=radio checked> Visible to everyone <input type=radio> Visible only to friends <input type=radio> Visible to none</td>
+</tr> 
+<tr>
+<td>Additional name</td> <td><input></td> 
+<td><input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none</td>
+</tr>
+<tr>
+<td>Family name</td> <td><input></td>
+<td><input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none</td>
+</tr>
+<tr>
+<td>Nickname</td> <td><input></td>
+<td><input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none</td>
+</tr>
+</table>
+<hr>
+<table>
+<tr>
+<td>Address</td> <td><input></td> <td>Additional line of address</td> <td><input></td>
+</tr>
+<tr>
+<td>Post code</td> <td><input></td> <td>Place (town | city)</td> <td><input></td>
+</tr>
+<tr>
+<td colspan=2><input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none</td>
+</tr>
+</table>
+<hr>
+Telephone mobile private <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br><hr>
+Telephone mobile work <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br><hr>
+Telephone landline work <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br><hr>
+Telephone landline private <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br><hr>
+E-mail address <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br><hr>
 Birth date <select>
 <option>1</option>
 <option>2</option>
@@ -66,26 +95,35 @@ Birth date <select>
 <option>March</option>
 <option>..</option>
 <option>December</option>
-</select> <input value="Birth year"> <input type=checkbox> private | hidden (i.e. invisible)
-<br>
-Nickname (how you want to be seen on the platform?) <input type=checkbox> Same as my full name (if unchecked, this will appear -> <input> <button>Save</button>)
-<br>
+</select> <input value="Birth year"> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br><hr>
+Gender <input type=radio> male <input type=radio> female <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br><hr>
 Languages <input> <button>Add</button>
+<br><hr>
+<table>
+<tr>
+<td>Describe yourself</td> <td><textarea></textarea></td>
+</tr>
+<tr>
+<td>School</td> <td><input></td>
+</tr>
+<tr>
+<td>Work</td> <td><input></td>
+</tr>
+<tr>
+<td>Occupation</td> <td><input></td>
+</tr>
+</table>
 <br>
-Describe yourself <textarea></textarea>
-<br>
-School <input>
-<br>
-Work <input>
-<br>
-Occupation <input>
-<br>
-Interests <font color=gray>reading</font> <input> <button>Add</button>
-<br>
+Interests <font color=gray>reading, Wealth Dynamics, Scanners, Entrepreneurship, traveling, </font> <input> <button>Add</button>
+<br><hr>
 Time zone <select>
 <option>Berlin</option>
 <option>Moscow</option>
-<option>..</option>
+<option>New Dehli</option>
+<option>Beijing</option>
+<option>. . .</option>
 </select>
 <br><br>
 <button>Save</button>
