@@ -12,10 +12,11 @@
 <?php include ("header.php"); ?>
 
 <br><br><br><br>
-<center>
-<a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> | <a href="" title="Сообщения" target="">Inbox</a> | <a href="your_meetings.php" title="" target="">Your meetings</a> | <a href="your_locations.php" title="" target="">Your locations</a> | <a href="your_groups.php" title="" target="">Your Groups</a> | Profile | <a href="account.php" title="" target="">Account</a>
-</center>
-<br><br>
+
+<?php include ("dashboard_menu.php"); ?>
+
+<br><br><br><br>
+
 <a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> <a href="profile.php" title="" target="">Profile</a>
 <br><br>
 <table width=100%>

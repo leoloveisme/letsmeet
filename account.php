@@ -13,6 +13,10 @@
 
 <br><br><br><br>
 
+<?php include ("dashboard_menu.php"); ?>
+
+<br><br><br><br>
+
 <a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> <a href="account.php" title="" target="">Account</a>
 <br><br><br>
 <table>

@@ -9,23 +9,11 @@
 
 <body>
 
-<table width=100%>
-<tr>
-<td width=50%><a href="index.php" title="" target=""><img src="images/lets_meet.png"></a> <input value="Вбейте то что Вы ищете"> <button>Искать</button></td>
-<td width=50% align=right>Язык интерфейса <SELECT NAME="interface_language">
-<OPTION SELECTED VALUE="">English</OPTION>
-<OPTION>Deutsch</OPTION>
-<OPTION>French</OPTION>
-<OPTION>Русский</OPTION>
-</SELECT> <a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target=""><img src="images/avatar_small.jpg"> Navine</a> | <a href="" title="Сообщения" target=""><img src="images/envelope.png"></a> | Help <button title="Зарегистрироваться как человек ищущий общение">Хочу найти общение</button></td>
-</tr>
-</table>
+<?php include ("header.php"); ?>
 
 <br><br><br><br>
 
-<center>
-<a href="dashboard.php" title="" target="">Dashboard</a> | <a href="" title="Сообщения" target="">Inbox</a> | <a href="your_meetings.php" title="" target="">Your meetings</a> | Your locations |  <a href="your_groups.php" title="" target="">Your Groups</a> | <a href="profile.php" title="" target="">Profile</a> | <a href="account.php" title="" target="">Account</a>
-</center>
+<?php include ("dashboard_menu.php"); ?>
 
 <br><br><br><br>
 

@@ -21,7 +21,7 @@ Social connections
 <br><br>
 About
 <br>
-Jobs
+<a href="jobs.php" title="" target="">Jobs</a>
 <br>
 <a href="press.php" title="" target="">Press</a>
 <br>
@@ -33,18 +33,18 @@ Policies
 <br>
 Terms & Conditions
 <br>
-Privacy
+<a href="privacy.php" title="" target="">Privacy</a>
 </td>
 <td width=20% valign=top>
 <strong>Meeting</strong>
 <br><br>
 <a href="why_meet.php" title="or Why Let's meet; which one is better" target="">Why meet</a>
 <br>
-Responsible Meetings
+Meaningful meetings
 <br>
 Trust & Safety
 <br>
-Stories
+<a href="stories.php" title="" target="">Stories</a>
 <br>
 Invite friends
 </td>
@@ -55,13 +55,13 @@ Invite friends
 <table width=100% >
 <tr>
 <td width=15%></td>
-<td width=40% align=center valign=top>
+<td width=40% align=center>
 
 <strong>Join us on</strong>
 <br><br>
-<img src=images/social_networks.png> | Linkedin | Google | Youtube
+<img src=images/social_media_platforms_black.png><br><img src=images/social_networks.png> Tumblr
 </td>
-<td width=20% align=center><strong>Our mobile apps</strong><br><br><img src=images/apps.png></td>
+<td width=20% align=center valign=top><strong>Our mobile apps</strong><br><br><img src=images/apps.png></td>
 <td width=25%></td>
 </tr>
 </table>

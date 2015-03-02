@@ -23,9 +23,7 @@
 
 <br><br><br><br>
 
-<center>
-<a href="dashboard.php" title="" target="">Dashboard</a> | <a href="" title="Сообщения" target="">Inbox</a> | Your meetings | <a href="your_stays.php" title="" target="">Your stays</a> | <a href="your_groups.php" title="" target="">Your Groups</a> | <a href="profile.php" title="" target="">Profile</a> | <a href="account.php" title="" target="">Account</a>
-</center>
+<?php include ("dashboard_menu.php"); ?>
 
 <br><br><br><br>
 

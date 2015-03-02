@@ -29,7 +29,7 @@
 <br><br>
 <input type="checkbox"> Люди <input type="checkbox"> Интересы <input type="checkbox"> Группы <input type="checkbox"> Мероприятия <input type="checkbox"> Форумы <input type="checkbox"> Посты
 </td>
-<td width=15% valign=top>List | Photo | Map</td>
+<td width=15% valign=top><a href="#list" title="" target="">List</a> | <a href="#photo" title="" target="">Photo</a> | <a href="#map" title="" target="">Map</a></td>
 </tr>
 </table>
 
@@ -69,7 +69,7 @@
 <br><br>
 <input type="checkbox"> Люди <input type="checkbox"> Интересы <input type="checkbox"> Группы <input type="checkbox"> Мероприятия <input type="checkbox"> Форумы <input type="checkbox"> Посты
 </td>
-<td width=15% valign=top>List | Photo | Map</td>
+<td width=15% valign=top><a href="#list" title="" target="">List</a> | <a href="#photo" title="" target="">Photo</a> | <a href="#map" title="" target="">Map</a></td>
 </tr>
 </table>
 
@@ -90,7 +90,7 @@
 <tr>
 <td width=20% valign=top><img src="images/map.png">
 <br><br>
-<strong>Meeting type</strong>
+<strong>Filters</strong>
 <br><br>
 <input type=checkbox> Люди
 <br>
@@ -104,13 +104,10 @@
 <br>
 <input type=checkbox> Посты
 <br><br>
-<strong>Интересы</strong>
-<br><br>
-<input> <img src="images/search.png">
-<br>
 <font color=gray>(Track all the searches and have search statistics which keywords are looked for the most)</font>
 </td>
 <td width=60% valign=top>
+<a name="list"></a>
 <a name="people"></a><strong>Люди</strong>
 <br><br>
 Результаты поиска
@@ -142,6 +139,25 @@
 Результаты поиска
 <br><br><br><br>
 
+<hr width=100%>
+<a name="photo"></a>
+<br>
+<font color=gray>Photo search results</font>
+<br><br>
+<img src="images/peter_thiel.jpg" width=125px height=205px>  
+<br><br>
+<img src="images/peter_thiel.jpg" width=125px height=205px> 
+<br><br>
+<img src="images/peter_thiel.jpg" width=125px height=205px> 
+<br><br>
+<center>
+<hr width=100%>
+<a name="map"></a>
+<br>
+<font color=gray>Map for the whole sector</font>
+<br><br>
+<img src="images/map.png">
+</center>
 </td>
 <td width=20% valign=top></td>
 </tr>
