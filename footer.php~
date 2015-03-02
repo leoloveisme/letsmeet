@@ -23,7 +23,7 @@ About
 <br>
 Jobs
 <br>
-Press
+<a href="press.php" title="" target="">Press</a>
 <br>
 Blog
 <br>
@@ -54,12 +54,14 @@ Invite friends
 <br>
 <table width=100% >
 <tr>
-<td width=20%></td>
-<td width=60% align=center>
+<td width=10%></td>
+<td width=40% align=center valign=top>
+
 <strong>Join us on</strong>
 <br><br>
-Facebook | Instagram | Tumblr | Twitter | Linkedin | Google | Youtube
+<img src=images/social_networks.png> | Linkedin | Google | Youtube
 </td>
-<td width=20%></td>
+<td width=20% align=center><strong>Our mobile apps</strong><br><br><img src=images/apps.png></td>
+<td width=30%></td>
 </tr>
 </table>

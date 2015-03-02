@@ -8,7 +8,6 @@
 </head>
 
 <body>
-<center><font color="gray">/* Эта строка служит только для наглядности */</font> <a href="index.php" title="" target="">Незалогиненный пользователь</a> | <font color="gray">Залогиненный пользователь /* Эта строка служит только для наглядности */</font></center>
 
 <?php include ("header.php"); ?>
 

@@ -43,16 +43,6 @@
 </tr>
 </table>
 
-<br>
-
-<table width=100%>
-<tr>
-<td width=5%></td>
-<td width=80%><a href="search_results.php" title="" target="">Простой поиск</a></td>
-<td width=15%></td>
-</tr>
-</table>
-
 <br><br>
 
 <table width=100%>
@@ -90,16 +80,6 @@
 <input type="checkbox"> Люди <input type="checkbox"> Интересы <input type="checkbox"> Группы <input type="checkbox"> Мероприятия <input type="checkbox"> Форумы <input type="checkbox"> Посты
 </td>
 <td width=15% valign=top>List | Photo | Map</td>
-</tr>
-</table>
-
-<br>
-
-<table width=100%>
-<tr>
-<td width=5%></td>
-<td width=80%><a href="search_results.php" title="" target="">Простой поиск</a></td>
-<td width=15%></td>
 </tr>
 </table>
 

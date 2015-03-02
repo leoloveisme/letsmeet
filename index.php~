@@ -12,7 +12,7 @@
 <table width=100%>
 <tr>
 <td width=10%><a href="index.php" title="" target=""><img src="images/lets_meet.png"></a> </td> 
-<td><input value="Вбейте то что Вы ищете"> <button>Искать</button>
+<td><input value="Вбейте то что Вы ищете"> <img src="images/search.png">
 <br>
 <a href="detailed_search_results.php" title="" target="">Detailed search</a>
 </td>

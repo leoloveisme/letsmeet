@@ -16,7 +16,7 @@
 <table width=100%>
 <tr>
 <td width=10%></td>
-<td width=80%>Ищу общение в этом городе</td>
+<td width=80%>Ищу деловое общение в этом городе</td>
 <td width=10%></td>
 </tr>
 </table>
