@@ -1,7 +1,7 @@
 <table width=100%>
 <tr>
 <td width=10%><a href="index.php" title="" target=""><img src="images/lets_meet.png"></a> </td> 
-<td><input value="Type in what you're looking for"> <a href="detailed_search_results.php" title="Search" target=""><img src="images/search.png" alt="Search">
+<td><input value="Type in what you're looking for"> <a href="detailed_search_results.php" title="Search" target=""><img src="images/search.png" alt="Search"></a>
 <br>
 <?php 
 $current_page_name=basename($_SERVER['PHP_SELF']);

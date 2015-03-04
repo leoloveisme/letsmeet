@@ -18,6 +18,6 @@ echo '<a href="detailed_search_results.php" title="" target="">Detailed search</
 <OPTION>Français</OPTION>
 <OPTION>Русский</OPTION>
 <OPTION>中文</OPTION>
-</SELECT> <a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target=""><img src="images/avatar_small.jpg"> Navine</a> | <a href="" title="Settings" target=""><img src="images/cog.png"></a> | <a href="inbox.php" title="Сообщения" target=""><img src="images/envelope.png"></a> | <a href="support.php" title="Support" target="">Help</a> <button title="Зарегистрироваться как человек ищущий общение">I want to meet</button></td>
+</SELECT> <a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target=""><img src="images/avatar_small.jpg"> Navine</a> | <a href="settings.php" title="Settings" target=""><img src="images/cog.png"></a> | <a href="inbox.php" title="Сообщения" target=""><img src="images/envelope.png"></a> | <a href="support.php" title="Support" target="">Help</a> <button title="Зарегистрироваться как человек ищущий общение">I want to meet</button></td>
 </tr>
 </table>

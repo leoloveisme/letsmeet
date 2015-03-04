@@ -17,12 +17,6 @@
 
 <br><br><br><br>
 
-<center>
-<a href="dashboard.php" title="" target="">Dashboard</a> | <a href="" title="Сообщения" target="">Inbox</a> | <a href="your_meetings.php" title="" target="">Your meetings</a> | Your locations |  <a href="your_groups.php" title="" target="">Your Groups</a> | <a href="profile.php" title="" target="">Profile</a> | <a href="account.php" title="" target="">Account</a>
-</center>
-
-<br><br><br><br>
-
 <a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> <a href="your_stays.php" title="" target="">Your locations</a>
 <br><br>
 

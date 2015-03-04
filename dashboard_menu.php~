@@ -11,7 +11,7 @@ if ($current_page_name=="inbox.php") echo 'Inbox | ';
 else
 echo '<a href="inbox.php" title="Messages" target="">Inbox</a> | ';
 
-if ($current_page_name=="your_meetings.php") echo 'Inbox | ';
+if ($current_page_name=="your_meetings.php") echo 'Your meetings | ';
 else
 echo '<a href="your_meetings.php" title="Your meetings" target="">Your meetings</a> | ';
 

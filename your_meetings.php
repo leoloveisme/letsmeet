@@ -17,7 +17,7 @@
 
 <br><br><br><br>
 
-<a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> <a href="your_meetings.php" title="" target="">Your meetings</a>
+<a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> Your meetings
 <br><br>
 
 <table width=100%>

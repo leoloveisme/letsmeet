@@ -17,7 +17,7 @@
 
 <br><br><br><br>
 
-<a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> <a href="profile.php" title="" target="">Profile</a>
+<a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> Profile
 <br><br>
 <table width=100%>
 <tr>
@@ -75,16 +75,28 @@ I can be contacted by:
 </table>
 <hr>
 Telephone mobile private <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br>
+<button>Add</button>
 <br><hr>
 Telephone mobile work <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br>
+<button>Add</button>
 <br><hr>
 Telephone landline work <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br>
+<button>Add</button>
 <br><hr>
 Telephone landline private <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br>
+<button>Add</button>
 <br><hr>
 E-mail work <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br>
+<button>Add</button>
 <br><hr>
 E-mail private <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
+<br>
+<button>Add</button>
 <br><hr>
 Birth date <select>
 <option>1</option>
@@ -102,7 +114,7 @@ Birth date <select>
 <br><hr>
 Gender <input type=radio> male <input type=radio> female <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
 <br><hr>
-Languages <input> <button>Add</button>
+Languages <font color=gray>English</font> <input> <button>Add</button>
 <br><hr>
 <table>
 <tr>

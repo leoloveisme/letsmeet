@@ -27,7 +27,7 @@ About
 <br>
 Blog
 <br>
-Help
+<a href="support.php" title="" target="">Help</a>
 <br>
 Policies
 <br>

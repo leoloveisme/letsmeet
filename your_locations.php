@@ -17,7 +17,7 @@
 
 <br><br><br><br>
 
-<a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> <a href="your_stays.php" title="" target="">Your locations</a>
+<a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> Your locations
 <br><br>
 
 <table width=100%>

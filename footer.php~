@@ -27,7 +27,7 @@ About
 <br>
 Blog
 <br>
-Help
+<a href="help.php" title="" target="">Help</a>
 <br>
 Policies
 <br>
@@ -55,7 +55,7 @@ Invite friends
 <table width=100% >
 <tr>
 <td width=15%></td>
-<td width=40% align=center valign=top>
+<td width=40% align=center>
 
 <strong>Join us on</strong>
 <br><br>

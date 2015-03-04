@@ -17,22 +17,14 @@
 
 <br><br><br><br>
 
-<a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> <a href="account.php" title="" target="">Account</a>
+<a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> Account
 <br><br><br>
-<table>
-<tr>
-<td>Old Password</td><td><input type=text></td>
-</tr>
-<tr>
-<td>New Password</td><td><input type=text></td>
-</tr>
-<tr>
-<td>Confirm Password</td><td><input type=text></td>
-</tr>
-</table>
+
+<?php include ("change_password.php"); ?>
+
 <br><br>
 
-Delete account
+<a href="" target="" title="">Delete account</a>
 
 <br><br><br><br>
 <hr width=100%>

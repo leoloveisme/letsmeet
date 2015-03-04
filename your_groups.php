@@ -17,7 +17,7 @@
 
 <br><br><br><br>
 
-<a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> <a href="your_groups.php" title="" target="">Your groups</a>
+<a href="dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target="">Dashboard</a> -> Your groups
 <br><br>
 Your groups
 <br>

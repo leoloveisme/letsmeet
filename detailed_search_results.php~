@@ -60,7 +60,6 @@
 <OPTION>Male</OPTION>
 <OPTION>Female</OPTION>
 <OPTION>Both (males and females)</OPTION>
-<OPTION>Other</OPTION>
 </SELECT> <input value="Язык"> <input value="Профессия"> <SELECT NAME="meeting_type"><OPTION SELECTED VALUE="">Choose meeting type ...</OPTION>
 <OPTION>People</OPTION>
 <OPTION>Groups</OPTION>
@@ -144,11 +143,11 @@
 <br>
 <font color=gray>Photo search results</font>
 <br><br>
-<img src="images/peter_thiel.jpg" width=125px height=235px>  
+<img src="images/peter_thiel.jpg" width=125px height=205px>  
 <br><br>
-<img src="images/peter_thiel.jpg" width=125px height=235px> 
+<img src="images/peter_thiel.jpg" width=125px height=205px> 
 <br><br>
-<img src="images/peter_thiel.jpg" width=125px height=235px> 
+<img src="images/peter_thiel.jpg" width=125px height=205px> 
 <br><br>
 <center>
 <hr width=100%>
@@ -156,7 +155,7 @@
 <br>
 <font color=gray>Map for the whole sector</font>
 <br><br>
-<img src="images/map.png">
+<img src="images/map.png" width=850px height=800px>
 </center>
 </td>
 <td width=20% valign=top></td>
