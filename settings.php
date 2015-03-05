@@ -29,7 +29,11 @@
 
 <td width=80%>
 <?php include ("notifications.php"); ?>
+
+<font color="gray">Changes will be saved automatically i.e. once you check or uncheck the box it will be saved immediately</font>
 <br><br>
+<hr width=100%>
+<br>
 <?php include ("change_password.php"); ?>
 </td>
 

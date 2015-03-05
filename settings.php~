@@ -20,10 +20,21 @@
 <table>
 <tr>
 
-<td width=20% valign=top>Settings</td>
+<td width=20% valign=top>Settings
+<br>
+<a href="#notifications" target="" title="">Notifications<a>
+<br>
+<a href="#change_password" target="" title="">Change password<a>
+</td>
 
 <td width=80%>
 <?php include ("notifications.php"); ?>
+
+<font color="gray">Changes will be automatically saved i.e. once you check or uncheck the box it will be saved immediately</font>
+<br><br>
+<hr width=100%>
+<br>
+<?php include ("change_password.php"); ?>
 </td>
 
 </tr>

@@ -17,7 +17,7 @@
 
 <br><br><br><br>
 
-Support page
+Support functionality
 
 <br><br><br><br>
 <hr width=100%>

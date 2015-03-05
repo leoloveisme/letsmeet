@@ -27,7 +27,7 @@
 <td width=80%>
 <input value="Любое слово или customer ID"> <input value="Имя"> <input value="Фамилия"> <input value="Account ID"> <button>Искать</button>
 <br><br>
-<input type="checkbox"> Люди <input type="checkbox"> Интересы <input type="checkbox"> Группы <input type="checkbox"> Мероприятия <input type="checkbox"> Форумы <input type="checkbox"> Посты
+<input type="checkbox"> People <input type="checkbox"> Locations <input type="checkbox"> Interests 
 </td>
 <td width=15% valign=top><a href="#list" title="" target="">List</a> | <a href="#photo" title="" target="">Photo</a> | <a href="#map" title="" target="">Map</a></td>
 </tr>
@@ -66,7 +66,7 @@
 <OPTION>Events</OPTION>
 </SELECT> <button>Искать</button>
 <br><br>
-<input type="checkbox"> Люди <input type="checkbox"> Интересы <input type="checkbox"> Группы <input type="checkbox"> Мероприятия <input type="checkbox"> Форумы <input type="checkbox"> Посты
+<input type="checkbox"> People <input type="checkbox"> Locations <input type="checkbox"> Interests 
 </td>
 <td width=15% valign=top><a href="#list" title="" target="">List</a> | <a href="#photo" title="" target="">Photo</a> | <a href="#map" title="" target="">Map</a></td>
 </tr>
@@ -78,7 +78,7 @@
 
 
 
-<a href="#people" title="" target="">Люди</a> | <a href="#interests" title="" target="">Интересы</a> | <a href="#groups" title="" target="">Группы</a> | <a href="#events" title="" target="">Мероприятия</a> | <a href="#forums" title="" target="">Форумы</a> | <a href="#posts" title="" target="">Посты</a>
+<a href="#people" title="" target="">People</a> | <a href="#groups" title="" target="">Locations</a> | <a href="#interests" title="" target="">interests</a>
 </center>
 
 <br><br>
@@ -91,57 +91,35 @@
 <br><br>
 <strong>Filters</strong>
 <br><br>
-<input type=checkbox> Люди
+<input type=checkbox> People
 <br>
- <input type="checkbox"> Интересы
+ <input type="checkbox"> Locations
 <br>
-<input type=checkbox> Группы
-<br>
-<input type=checkbox> Мероприятия
-<br>
-<input type=checkbox> Форумы
-<br>
-<input type=checkbox> Посты
+<input type=checkbox> Interests
 <br><br>
 <font color=gray>(Track all the searches and have search statistics which keywords are looked for the most)</font>
 </td>
 <td width=60% valign=top>
 <a name="list"></a>
-<a name="people"></a><strong>Люди</strong>
+<a name="people"></a><strong>People</strong>
 <br><br>
-Результаты поиска
+Search results
 <br><br><br><br>
 
-<a name="interests"></a><strong>Интересы</strong>
+<a name="locations"></a><strong>Locations</strong>
 <br><br>
-Результаты поиска
+Search results
 <br><br><br><br>
 
-<a name="groups"></a><strong>Группы</strong>
+<a name="interests"></a><strong>Interests</strong>
 <br><br>
-Результаты поиска
-<br><br><br><br>
-
-
-<a name="events"></a><strong>Мероприятия</strong>
-<br><br>
-Результаты поиска
-<br><br><br><br>
-
-<a name="forums"></a><strong>Форумы</strong>
-<br><br>
-Результаты поиска
-<br><br><br><br>
-
-<a name="posts"></a><strong>Посты</strong>
-<br><br>
-Результаты поиска
+Search results
 <br><br><br><br>
 
 <hr width=100%>
 <a name="photo"></a>
 <br>
-<font color=gray>Photo search results</font>
+<center><font color=gray>Photo search results</font></center>
 <br><br>
 <img src="images/peter_thiel.jpg" width=125px height=205px>  
 <br><br>
