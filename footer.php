@@ -4,15 +4,7 @@
 <td width=20% valign=top>
 <strong>Discover</strong>
 <br><br>
-<a href="events.php" title="" target="">Events</a>
-<br>
-<a href="groups.php" title="" target="">Groups</a>
-<br>
 <a href="mobile.php" title="Page with the links for downloading apps for Android and iOS" target="">Mobile</a>
-<br>
-Social connections
-<br>
-<a href="" title="Featured profiles" target="">Let's meet's picks</a> 
 <br>
 <a href="sitemap.php" title="" target="">Site map</a>
 </td>
@@ -20,12 +12,6 @@ Social connections
 <strong>Company (project)</strong>
 <br><br>
 About
-<br>
-<a href="jobs.php" title="" target="">Jobs</a>
-<br>
-<a href="press.php" title="" target="">Press</a>
-<br>
-Blog
 <br>
 <a href="support.php" title="" target="">Help</a>
 <br>

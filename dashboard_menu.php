@@ -19,10 +19,6 @@ if ($current_page_name=="your_locations.php") echo 'Your locations | ';
 else
 echo '<a href="your_locations.php" title="" target="">Your locations</a> | ';
 
-if ($current_page_name=="your_groups.php") echo 'Your groups | ';
-else
-echo '<a href="your_groups.php" title="" target="">Your Groups</a> | ';
-
 if ($current_page_name=="profile.php") echo 'Profile | ';
 else
 echo '<a href="profile.php" title="" target="">Profile</a> | ';

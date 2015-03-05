@@ -67,25 +67,9 @@ List of messages
 <br><br>
 List of meetings
 <br><br>
-<strong>Your Stays</strong>
+<strong>Your Locations</strong>
 <br><br>
-List of stays
-<br><br>
-<strong>Your events</strong>
-<br><br>
-List of events
-<br><br>
-<strong>Your groups</strong>
-<br><br>
-List of groups
-<br><br>
-<strong>Your forums</strong>
-<br><br>
-List of forums
-<br><br>
-<strong>Your posts</strong>
-<br><br>
-List of posts
+List of locations
 <br><br>
 Account ID: 123456789
 </td>

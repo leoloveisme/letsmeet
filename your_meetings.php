@@ -23,9 +23,6 @@
 <table width=100%>
 <tr>
 <td width=20% valign=top>
-Your meetings
-<br>
-<a href="your_events.php" title="" target="">Your events</a>
 </td>
 <td width=60% valign=top>
 

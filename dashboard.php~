@@ -55,7 +55,7 @@ E-mail addresses
 </td>
 <td width=10% valign=top></td>
 <td width=50% valign=top>
-<strong>Alerts | Reminder</strong> 
+<strong>Alerts | Reminders</strong> 
 <br><br>
 List of alerts and reminders
 <br><br>
