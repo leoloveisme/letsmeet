@@ -32,6 +32,12 @@
 <br>
 <a href="dashboard.php" title="" target="">Profile (dashboard)</a>
 <br>
+<a href="policies.php" title="" target="">Policies</a>
+<br>
+<a href="press.php" title="" target="">Press</a>
+<br>
+<a href="privacy.php" title="" target="">Privacy</a>
+<br>
 <a href="profile.php" title="" target="">Profile (edit)</a>
 <br>
 <a href="profile_as_seen_by_others.php" title="" target="">Profile as seen by others</a>
@@ -46,7 +52,7 @@
 <br>
 <a href="why_meet.php" title="" target="">Why meet</a>
 <br>
-<a href="your_locations.php" title="" target="">Your Location(s)</a>
+<a href="your_locations.php" title="" target="">Your location(s)</a>
 <br>
 <a href="your_meetings.php" title="" target="">Your meetings</a>
 
