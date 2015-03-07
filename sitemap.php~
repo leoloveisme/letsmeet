@@ -18,13 +18,17 @@
 <tr>
 <td width=20%></td>
 <td width=60%>
+<a href="about.php" title="" target="">About</a>
+<br>
 <a href="account.php" title="" target="">Account</a>
+<br>
+<a href="detailed_search_results.php" title="" target="">Detailed search results</a>
 <br>
 <a href="index.php" title="" target="">Index</a>
 <br>
-<a href="your_locations.php" title="" target="">Your Location(s)</a>
+<a href="meaningful_meetings.php" title="" target="">Meaningful meetings</a>
 <br>
-<a href="your_meetings.php" title="" target="">Your meetings</a>
+<a href="meaningful_travel.php" title="" target="">Meaningful travel</a>
 <br>
 <a href="dashboard.php" title="" target="">Profile (dashboard)</a>
 <br>
@@ -32,11 +36,22 @@
 <br>
 <a href="profile_as_seen_by_others.php" title="" target="">Profile as seen by others</a>
 <br>
-<a href="search_results.php" title="" target="">Результаты поиска</a>
-<br>
-<a href="detailed_search_results.php" title="" target="">Detailed search results</a>
-<br>
 <a href="notifications.php" title="" target="">Notifications</a>
+<br>
+<a href="settings.php" title="" target="">Settings</a>
+<br>
+<a href="stories.php" title="" target="">Stories</a>
+<br>
+<a href="terms_n_conditions.php" title="" target="">Terms and conditions</a>
+<br>
+<a href="trust_n_safety.php" title="" target="">Trust and safety</a>
+<br>
+<a href="why_meet.php" title="" target="">Why meet</a>
+<br>
+<a href="your_locations.php" title="" target="">Your Location(s)</a>
+<br>
+<a href="your_meetings.php" title="" target="">Your meetings</a>
+
 </td>
 <td width=20%></td>
 </tr>
