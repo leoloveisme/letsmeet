@@ -26,17 +26,20 @@
 <br>
 <a href="index.php" title="" target="">Index</a>
 <br>
+<a href="login.php" title="" target="">Index</a>
+<br>
 <a href="meaningful_meetings.php" title="" target="">Meaningful meetings</a>
 <br>
 <a href="meaningful_travel.php" title="" target="">Meaningful travel</a>
 <br>
 <a href="dashboard.php" title="" target="">Profile (dashboard)</a>
 <br>
-
 <a href="policies.php" title="" target="">Policies</a>
+<br>
 <a href="press.php" title="" target="">Press</a>
+<br>
 <a href="privacy.php" title="" target="">Privacy</a>
-
+<br>
 <a href="profile.php" title="" target="">Profile (edit)</a>
 <br>
 <a href="profile_as_seen_by_others.php" title="" target="">Profile as seen by others</a>

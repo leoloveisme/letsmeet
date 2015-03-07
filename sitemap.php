@@ -26,6 +26,8 @@
 <br>
 <a href="index.php" title="" target="">Index</a>
 <br>
+<a href="login.php" title="" target="">Login</a>
+<br>
 <a href="meaningful_meetings.php" title="" target="">Meaningful meetings</a>
 <br>
 <a href="meaningful_travel.php" title="" target="">Meaningful travel</a>
@@ -43,6 +45,8 @@
 <a href="profile_as_seen_by_others.php" title="" target="">Profile as seen by others</a>
 <br>
 <a href="settings.php" title="" target="">Settings</a>
+<br>
+<a href="sign-up.php" title="" target="">Sign-up</a>
 <br>
 <a href="stories.php" title="" target="">Stories</a>
 <br>

@@ -22,7 +22,7 @@
 <OPTION>French</OPTION>
 <OPTION>Русский</OPTION>
 <OPTION>中文</OPTION>
-</SELECT> Sign-up | Login | Help <button title="Зарегистрироваться как человек ищущий общение">Хочу найти общение</button></td>
+</SELECT> <a href="sign-up.php" target="" title="">Sign-up</a> | <a href="login.php" target="" title="">Login</a> | <a href="support.php" target="" title="">Help</a> <button title="Зарегистрироваться как человек ищущий общение">Хочу найти общение</button></td>
 </tr>
 </table>
 
