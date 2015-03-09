@@ -76,27 +76,37 @@ I can be contacted by:
 <hr>
 Telephone mobile private <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
 <br>
-<button>Add</button>
+<font color="gray">As soon as the cursor is moved out of the field information will be immediately saved.</font>
+<br>
+<button>+</button>
 <br><hr>
 Telephone mobile work <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
 <br>
-<button>Add</button>
+<font color="gray">As soon as the cursor is moved out of the field information will be immediately saved.</font>
+<br>
+<button>+</button>
 <br><hr>
 Telephone landline work <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
 <br>
-<button>Add</button>
+<font color="gray">As soon as the cursor is moved out of the field information will be immediately saved.</font>
+<br>
+<button>+</button>
 <br><hr>
 Telephone landline private <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
 <br>
-<button>Add</button>
+<font color="gray">As soon as the cursor is moved out of the field information will be immediately saved.</font>
+<br>
+<button>+</button>
 <br><hr>
 E-mail work <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
 <br>
-<button>Add</button>
+<font color="gray">As soon as the cursor is moved out of the field information will be immediately saved.</font>
+<br>
+<button>+</button>
 <br><hr>
 E-mail private <input> <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
 <br>
-<button>Add</button>
+<button>+</button>
 <br><hr>
 Birth date <select>
 <option>1</option>
@@ -114,24 +124,21 @@ Birth date <select>
 <br><hr>
 Gender <input type=radio> male <input type=radio> female <input type=radio> Visible to everyone <input type=radio> Visible only to friends <input type=radio checked> Visible to none
 <br><hr>
-Languages <input> <button>Add</button>
+Languages <font color=gray>English</font> <input> <button>+</button>
 <br><hr>
 <table>
 <tr>
 <td>Describe yourself</td> <td><textarea></textarea></td>
 </tr>
 <tr>
-<td>School</td> <td><input></td>
+<td>Current projects</td> <td><textarea></textarea></td>
 </tr>
 <tr>
-<td>Work</td> <td><input></td>
-</tr>
-<tr>
-<td>Occupation</td> <td><input></td>
+<td>Current challenges</td> <td><textarea></textarea></td>
 </tr>
 </table>
 <br>
-Interests <font color=gray>reading, Wealth Dynamics, Scanners, Entrepreneurship, traveling, </font> <input> <button>Add</button>
+Interests <font color=gray>reading, Wealth Dynamics, Scanners, Entrepreneurship, traveling, </font> <input> <button>+</button>
 <br><hr>
 Time zone <select>
 <option>Berlin</option>

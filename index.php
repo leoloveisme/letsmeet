@@ -12,7 +12,7 @@
 <table width=100%>
 <tr>
 <td width=10%><a href="index.php" title="" target=""><img src="images/lets_meet.png"></a> </td> 
-<td><input value="Вбейте то что Вы ищете"> <img src="images/search.png">
+<td><input value="Type in what you're looking for"> <img src="images/search.png">
 <br>
 <a href="detailed_search_results.php" title="" target="">Detailed search</a>
 </td>
@@ -31,7 +31,7 @@
 <table width=100%>
 <tr>
 <td width=10%></td>
-<td width=80%>Ищу деловое общение в этом городе</td>
+<td width=80%>I'm looking for meeting(s) at the location</td>
 <td width=10%></td>
 </tr>
 </table>
@@ -40,7 +40,7 @@
 <table width=100%>
 <tr>
 <td width=10%></td>
-<td width=80%><input value="Город"> <input value="С какого"> <input value="Время"> <input value="По какое"> <input value="Время"> <button>Искать</button>
+<td width=80%><input value="City | Town"> <input value="From (date)"> <input value="Time"> <input value="To (date)"> <input value="Time"> <button>Search</button>
 <br><br><br><br>
 <center><img src="images/map.png"></center>
 </td>

@@ -3,9 +3,9 @@
 <?php 
 $current_page_name=basename($_SERVER['PHP_SELF']);
 
-if ($current_page_name=="dashboard.php") echo 'Dashboard | ';
+if ($current_page_name=="unified_profile.php#dashboard") echo 'Dashboard | ';
 else
-echo '<a href="dashboard.php" title="" target="">Dashboard</a> | ';
+echo '<a href="unified_profile.php#dashboard" title="" target="">Dashboard</a> | ';
 
 if ($current_page_name=="inbox.php") echo 'Inbox | ';
 else
@@ -19,17 +19,13 @@ if ($current_page_name=="your_locations.php") echo 'Your locations | ';
 else
 echo '<a href="your_locations.php" title="" target="">Your locations</a> | ';
 
-if ($current_page_name=="your_groups.php") echo 'Your groups | ';
-else
-echo '<a href="your_groups.php" title="" target="">Your Groups</a> | ';
-
-if ($current_page_name=="profile.php") echo 'Profile | ';
+if ($current_page_name=="unified_profile.php#profile") echo 'Profile | ';
 else
 echo '<a href="profile.php" title="" target="">Profile</a> | ';
 
-if ($current_page_name=="account.php") echo 'Account';
+if ($current_page_name=="unified_profile.php#account") echo 'Account';
 else
-echo '<a href="account.php" title="" target="">Account</a>';
+echo '<a href="unified_profile.php#account" title="" target="">Account</a>';
 ?>
 
 </center>

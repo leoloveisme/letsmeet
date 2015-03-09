@@ -59,9 +59,9 @@ E-mail addresses
 <br><br>
 List of alerts and reminders
 <br><br>
-<strong>Messages</strong>
+<strong><a href="inbox.php" title="" target="">Messages</a></strong>
 <br><br>
-List of messages
+List of new (unread) messages
 <br><br>
 <strong>Your Meetings</strong>
 <br><br>

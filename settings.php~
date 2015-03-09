@@ -28,9 +28,9 @@
 </td>
 
 <td width=80%>
-<?php include ("notifications.php"); ?>
+<?php include ("notifications_n_verifications.php"); ?>
 
-<font color="gray">Changes will be automatically saved i.e. once you check or uncheck the box it will be saved immediately</font>
+<font color="gray">Changes will be saved automatically i.e. once you check or uncheck the box it will be saved immediately</font>
 <br><br>
 <hr width=100%>
 <br>
