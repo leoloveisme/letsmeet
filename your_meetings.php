@@ -26,12 +26,12 @@
 </td>
 <td width=60% valign=top>
 
-<table width=100%>
+<table width=100% border=0>
 <tr>
 <td><a href="" title="" target="">Create a new meeting</a></td> 
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td align=center><a href="" title="" target=""><img src="images/printer.png"> Print this page</a></td>
+<td align=right><a href="" title="" target=""><img src="images/printer.png"> Print this page</a></td>
 </tr>
 <tr>
 <td>&nbsp;</td> 
@@ -41,8 +41,8 @@
 </tr>
 <tr>
 <th align=left>Status</th> 
-<th align=left>Date(s) & Location</th>
 <th align=left>(Future?) friend</th>
+<th align=left>Date(s) & Location</th>
 <th align=left>Details</th>
 </tr>
 <tr>
@@ -52,9 +52,16 @@
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td valign=top>Let's meet
-<br>
+<td valign=top>
 <a href="" title="" target="">Agree</a> <a href="" title="" target="">Decline</a>
+</td>
+<td valign=top>
+<a href="" title="" target=""><img src="images/mrx.png" width=75px>
+<br>
+Ms. X</a>
+<br>
+<a href="" title="" target="">Contact</a>
+<br><br>
 </td> 
 <td valign=top>24 October 2013 18:00 - 22:00
 <br>
@@ -70,14 +77,11 @@ Jahreszeitenstr. 12
 <br><br>
 </td>
 <td valign=top>
-<a href="" title="" target=""><img src="images/mrx.png" width=75px>
-<br>
-Ms. X</a>
-<br>
-<a href="" title="" target="">Contact</a>
+<strong>Subject:</strong>
+Some text
 <br><br>
-</td>
-<td valign=top>Some text
+<strong>Message:</strong>
+Some text
 <br><br>
 <strong>Meeting ID</strong>: 123456798
 <br><br>
@@ -85,15 +89,21 @@ Ms. X</a>
 </td>
 </tr>
 <tr>
-<td valign=top></td>
-<td valign=top colspan=2><center><img src="images/meeting_location_map.png"><br><br></center></td>
-<td valign=top></td>
+<td valign=top colspan=4><center><img src="images/meeting_location_map.png"><br><br></center></td>
 </tr>
 <tr>
 <td valign=top>
 Confirmed
 <br>
 <a href="" title="" target="">Decline</a>
+</td>
+<td valign=top>
+<a href="" title="" target=""><img src="images/peter_thiel.jpg" width=100px>
+<br>
+Peter Thiel</a>
+<br>
+<a href="" title="" target="">Contact</a>
+<br><br>
 </td> 
 <td valign=top>22 October 2013 18:00 - 22:00
 <br>
@@ -108,14 +118,6 @@ Jahreszeitenstr. 12
 <a href="" title="" target="">Change meeting location and venue</a>
 <br><br>
 </td>
-<td valign=top>
-<a href="" title="" target=""><img src="images/peter_thiel.jpg" width=75px>
-<br>
-Peter Thiel</a>
-<br>
-<a href="" title="" target="">Contact</a>
-<br><br>
-</td>
 <td valign=top>Some text
 <br><br>
 <strong>Meeting ID</strong>: 123456787
@@ -124,12 +126,18 @@ Peter Thiel</a>
 </td>
 </tr>
 <tr>
-<td valign=top></td>
-<td valign=top colspan=2><center><img src="images/meeting_location_map.png"><br><br></center></td>
-<td valign=top></td>
+<td valign=top colspan=4><center><img src="images/meeting_location_map.png"><br><br></center></td>
 </tr>
 <tr>
 <td valign=top>Declined</td> 
+<td valign=top>
+<a href="" title="" target=""><img src="images/mrx.png" width=75px>
+<br>
+David Davidov</a>
+<br>
+<a href="" title="" target="">Contact</a>
+<br><br>
+</td>
 <td valign=top>
 22 October 2013 18:00 - 22:00
 <br>
@@ -144,14 +152,6 @@ Peter Thiel</a>
 <a href="" title="" target="">Change meeting location and venue</a>
 <br><br>
 </td>
-<td valign=top>
-<a href="" title="" target=""><img src="images/mrx.png" width=75px>
-<br>
-David Davidov</a>
-<br>
-<a href="" title="" target="">Contact</a>
-<br><br>
-</td>
 <td valign=top>Some text
 <br><br>
 <strong>Meeting ID</strong>: 123456789
@@ -160,9 +160,7 @@ David Davidov</a>
 </td>
 </tr>
 <tr>
-<td valign=top></td>
-<td valign=top colspan=2><center><img src="images/meeting_location_map.png"><br><br></center></td>
-<td valign=top></td>
+<td valign=top colspan=4><center><img src="images/meeting_location_map.png"><br><br></center></td>
 </tr>
 <tr>
 <td>&nbsp;</td> 

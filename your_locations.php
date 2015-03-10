@@ -26,10 +26,9 @@
 </td>
 <td width=60% valign=top>
 
-<table width=100%>
+<table width=100% border=0>
 <tr>
 <td><a href="" title="" target="">Create a new location</a></td> 
-<td>&nbsp;</td>
 <td>&nbsp;</td>
 <td align=center><a href="" title="" target=""><img src="images/printer.png"> Print this page</a></td>
 </tr>
@@ -37,17 +36,14 @@
 <td>&nbsp;</td> 
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <th align=left>&nbsp;</th> 
-<th align=left>&nbsp;</th>
 <th align=left>&nbsp;</th>
 <th align=left>Details</th>
 </tr>
 <tr>
 <td>&nbsp;</td> 
-<td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
@@ -75,9 +71,6 @@ Jahreszeitenstr. 12
 <br><br>
 <input type=checkbox checked> I'm available to meet at this location (unchecking this make the location invisible on the map)
 </td>
-<td valign=top>
-&nbsp;
-</td>
 <td valign=top>Some text
 <br><br>
 <strong>Location ID</strong>: 123456798
@@ -86,9 +79,7 @@ Jahreszeitenstr. 12
 </td>
 </tr>
 <tr>
-<td valign=top></td>
-<td valign=top colspan=2><center><img src="images/meeting_location_map.png"><br><br></center></td>
-<td valign=top></td>
+<td valign=top colspan=3><center><img src="images/meeting_location_map.png"><br><br></center></td>
 </tr>
 <tr>
 <td valign=top>
@@ -114,9 +105,6 @@ Jahreszeitenstr. 12
 <br><br>
 <input type=checkbox> I'm available to meet at this location(unchecking this make the location invisible on the map)
 </td>
-<td valign=top>
-&nbsp;
-</td>
 <td valign=top>Some text
 <br><br>
 <strong>Location ID</strong>: 123456787
@@ -125,9 +113,7 @@ Jahreszeitenstr. 12
 </td>
 </tr>
 <tr>
-<td valign=top></td>
-<td valign=top colspan=2><center><img src="images/meeting_location_map.png"><br><br></center></td>
-<td valign=top></td>
+<td valign=top colspan=3><center><img src="images/meeting_location_map.png"><br><br></center></td>
 </tr>
 <tr>
 <td valign=top>
@@ -152,9 +138,6 @@ No dates selected <button>Select dates</button>
 <br><br>
 <input type=checkbox checked> I'm available to meet at this location (unchecking this make the location invisible on the map)
 </td>
-<td valign=top>
-&nbsp;
-</td>
 <td valign=top>Some text
 <br><br>
 <strong>Location ID</strong>: 123456789
@@ -163,20 +146,15 @@ No dates selected <button>Select dates</button>
 </td>
 </tr>
 <tr>
-<td valign=top></td>
-<td valign=top colspan=2><center><img src="images/meeting_location_map.png"><br><br></center></td>
-<td valign=top></td>
+<td valign=top colspan=3><center><img src="images/meeting_location_map.png"><br><br></center></td>
 </tr>
 <tr>
 <td>&nbsp;</td> 
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;</td> 
-<td align=center colspan=2><a href="" title="" target="">View past locations</a></td>
-<td>&nbsp;</td>
+<td align=center colspan=3><a href="" title="" target="">View past locations</a></td>
 </tr>
 </table>
 

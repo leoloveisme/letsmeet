@@ -28,7 +28,13 @@
 <br><br>
 <a href="#profile" title="" target="">Profile</a>
 <br><br>
+<a href="#friends" title="" target="">Friends</a>
+<br><br>
+<a href="#interests" title="" target="">Interests</a>
+<br><br>
 <a href="#personal_description" title="" target="">Personal description</a>
+<br><br>
+<a href="#settings" title="" target="">Settings</a>
 <br><br>
 <a href="#account" title="" target="">Account</a>
 <br><br>
@@ -42,7 +48,6 @@
 </td>
 <td width=10% valign=top></td>
 <td width=50% valign=top>
-<font color="gray">// The data visible only by the account owner</font>
 <a name="dashboard"></a><h2>Dashboard</h2>
 <strong>Alerts | Reminders</strong> 
 <br><br>
@@ -52,14 +57,13 @@ List of alerts and reminders
 <br><br>
 List of new (unread) messages
 <br><br>
-<strong>Your Meetings</strong>
+<strong><a href="your_meetings.php" title="" target="">Your Meetings</a></strong>
 <br><br>
 List of meetings
 <br><br>
-<strong>Your Locations</strong>
+<strong><a href="your_locations.php" title="" target="">Your Locations</a></strong>
 <br><br>
 List of locations
-<br><br>
 <a name="settings"></a><h2>Settings</h2>
 <a name="privacy"></a><strong>Privacy</strong>
 <br><br>
@@ -111,8 +115,6 @@ Account ID: 123456789
 <br><br>
 <?php include ("change_password.php"); ?>
 <br><br>
-<font color="gray">// The data visible only by the account owner</font>
-<br><br>
 <a name="profile"></a><h2>Profile</h2>
 as seen as by 
 <SELECT NAME="profile">
@@ -128,7 +130,15 @@ Self description output
 <br><br>
 <a name="friends"></a><strong>Friends</strong>
 <br><br>
+Show as 
+<select name="friends">
+<OPTION SELECTED VALUE="">List</OPTION>
+<OPTION>Photos</OPTION> 
+</select>
+<br><br>
 <a name="interests"></a><strong>Interests</strong>
+<br><br>
+Reading, Wealth Dynamics, Scanners, Entrepreneurship, traveling
 <br><br>
 <a name="languages"></a><strong>Languages</strong>
 <br><br>

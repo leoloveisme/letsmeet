@@ -1,7 +1,7 @@
 <a name="notifications"></a>
 <strong>Notifications</strong>
 <br><br>
-<table border=1>
+<table border=0>
 <tr>
 <td colspan=3 valign=top><input type=checkbox> On-site notifications (will be shown at the Inbox icon and will go into your messaging inbox)
 <br><br>  
