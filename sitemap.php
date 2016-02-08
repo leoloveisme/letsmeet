@@ -18,6 +18,8 @@
 <tr>
 <td width=20%></td>
 <td width=60%>
+<h1>Sitemap</h1>
+<br><br>
 <a href="about.php" title="" target="">About</a>
 <br>
 <a href="unified_profile.php#account" title="" target="">Account</a>

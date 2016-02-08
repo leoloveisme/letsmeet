@@ -57,10 +57,6 @@ Any other data, if entered, from profile
 </td>
 <td width=10% valign=top></td>
 <td width=50% valign=top>
-<a href="profile.php" title="" target="">Edit profile</a>
-<br><br>
-Right now your profile is visible to (state of the profile's visibility: everyone, friends, none)
-<br><br>
 Hi, I'm Navine
 <br><br>
 Self description output
@@ -69,7 +65,7 @@ Self description output
 <br><br>
 <strong>References</strong>
 <br><br>
-<button>Request a meeting</button>
+<button><a href="" target="" title="">Request a meeting</a></button>
 </td>
 <td width=20% valign=top></td>
 </tr>

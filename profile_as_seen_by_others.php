@@ -57,13 +57,9 @@ Any other data, if entered, from profile
 </td>
 <td width=10% valign=top></td>
 <td width=50% valign=top>
-<a href="profile.php" title="" target="">Edit profile</a>
-<br><br>
-Right now your profile is visible to (state of the profile's visibility: everyone, friends, none)
-<br><br>
 Hi, I'm Navine
 <br><br>
-Self description output
+Description as by this user
 <br><br>
 <strong>Reviews</strong>
 <br><br>
