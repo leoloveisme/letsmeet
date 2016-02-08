@@ -19,7 +19,7 @@
 <td></td><td><input type=checkbox> Person(s) viewed your profile <br><br></td><td></td><td></td>
 </tr>
 <tr>
-<td></td><td><input type=checkbox> Person(s) having meetings <br><br></td><td></td><td></td>
+<td></td><td><input type=checkbox> Friends having meetings <br><br></td><td></td><td></td>
 </tr>
 <tr>
 <td valign=top><input type=checkbox>E-mail</td><td valign=top><input></td><td> <button>Activate</button></td> <td><input value="Enter the code we've send you in the e-mail or click activation link in the e-mail"> <button>Confirm | Verify</button></td>
@@ -42,7 +42,7 @@
 <td></td><td><input type=checkbox> Person(s) viewed your profile <br><br></td><td></td><td></td>
 </tr>
 <tr>
-<td></td><td><input type=checkbox> Person(s) having meetings <br><br></td><td></td><td></td>
+<td></td><td><input type=checkbox> Friends having meetings <br><br></td><td></td><td></td>
 </tr>
 <tr>
 <td valign=top>
@@ -53,7 +53,7 @@
 <tr>
 <td colspan=4>Notifications should go to this mobile
 <br> 
-<button>+</button>
+<button title="Add a new mobile phone">+</button>
 <br><br>
 </td>
 </tr>
@@ -69,7 +69,7 @@
 <td></td><td><input type=checkbox> Person(s) viewed your profile <br><br></td><td></td><td></td>
 </tr>
 <tr>
-<td></td><td><input type=checkbox> Person(s) having meetings <br><br></td><td></td><td></td>
+<td></td><td><input type=checkbox> Friends having meetings <br><br></td><td></td><td></td>
 </tr>
 <tr>
 <td colspan=4>
@@ -89,7 +89,7 @@
 <td></td><td><input type=checkbox> Person(s) viewed your profile <br><br></td><td></td><td></td>
 </tr>
 <tr>
-<td></td><td><input type=checkbox> Person(s) having meetings <br><br></td><td></td><td></td>
+<td></td><td><input type=checkbox> Friends having meetings <br><br></td><td></td><td></td>
 </tr>
 </table>
 <br>

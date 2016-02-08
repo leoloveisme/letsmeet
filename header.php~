@@ -12,12 +12,9 @@ echo '<a href="detailed_search_results.php" title="" target="">Detailed search</
 ?>
 
 </td>
-<td width=50% align=right>Interface language <SELECT NAME="interface_language">
-<OPTION SELECTED VALUE="">English</OPTION>
-<OPTION>Deutsch</OPTION>
-<OPTION>Français</OPTION>
-<OPTION>Русский</OPTION>
-<OPTION>中文</OPTION>
-</SELECT> <a href="unified_profile.php#dashboard.php" title="Профиль а.к.а личный кабинет пользователя" target=""><img src="images/avatar_small.jpg"> Navine</a> | <a href="unified_profile.php#settings" title="Settings" target=""><img src="images/cog.png"></a> | <a href="inbox.php" title="Сообщения" target=""><img src="images/envelope.png"></a> | <a href="support.php" title="Support" target="">Help</a> <button title="Зарегистрироваться как человек ищущий общение">I want to meet</button></td>
+<td width=50% align=right>
+Hello wanderer, 
+<a href="unified_profile.php#dashboard" title="Профиль а.к.а личный кабинет пользователя" target=""><img src="images/avatar_small.jpg"> Navine</a> | <a href="unified_profile.php#settings" title="Settings" target=""><img src="images/cog.png"></a> | <a href="inbox.php" title="Сообщения" target=""><img src="images/envelope.png"></a> | <a href="support.php" title="Support" target="">Help</a> 
+</td>
 </tr>
 </table>

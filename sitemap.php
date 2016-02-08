@@ -20,7 +20,7 @@
 <td width=60%>
 <a href="about.php" title="" target="">About</a>
 <br>
-<a href="account.php" title="" target="">Account</a>
+<a href="unified_profile.php#account" title="" target="">Account</a>
 <br>
 <a href="detailed_search_results.php" title="" target="">Detailed search results</a>
 <br>
@@ -32,19 +32,19 @@
 <br>
 <a href="meaningful_travel.php" title="" target="">Meaningful travel</a>
 <br>
-<a href="dashboard.php" title="" target="">Profile (dashboard)</a>
+<a href="unified_profile.php#dashboard" title="" target="">Dashboard</a>
 <br>
 <a href="policies.php" title="" target="">Policies</a>
 <br>
 <a href="press.php" title="" target="">Press</a>
 <br>
-<a href="privacy.php" title="" target="">Privacy</a>
+<a href="unified_profile.php#privacy" title="" target="">Privacy</a>
 <br>
-<a href="profile.php" title="" target="">Profile (edit)</a>
+<a href="unified_profile.php#profile" title="" target="">Profile</a>
 <br>
 <a href="profile_as_seen_by_others.php" title="" target="">Profile as seen by others</a>
 <br>
-<a href="settings.php" title="" target="">Settings</a>
+<a href="unified_profile.php#settings" title="" target="">Settings</a>
 <br>
 <a href="sign-up.php" title="" target="">Sign-up</a>
 <br>

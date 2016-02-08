@@ -12,17 +12,13 @@
 <table width=100%>
 <tr>
 <td width=10%><a href="index.php" title="" target=""><img src="images/lets_meet.png"></a> </td> 
-<td><input value="Вбейте то что Вы ищете"> <img src="images/search.png">
+<td><input value="Type in what you're looking for"> <img src="images/search.png">
 <br>
 <a href="detailed_search_results.php" title="" target="">Detailed search</a>
 </td>
-<td width=50% align=right>Язык интерфейса <SELECT NAME="interface_language">
-<OPTION SELECTED VALUE="">English</OPTION>
-<OPTION>Deutsch</OPTION>
-<OPTION>French</OPTION>
-<OPTION>Русский</OPTION>
-<OPTION>中文</OPTION>
-</SELECT> Sign-up | <a href="login.php" target="" title="">Login</a> | <a href="support.php" target="" title="">Help</a> <button title="Зарегистрироваться как человек ищущий общение">Хочу найти общение</button></td>
+<td width=50% align=right>
+Sign-up | <a href="login.php" target="" title="">Login</a> | <a href="support.php" target="" title="">Help</a> 
+</td>
 </tr>
 </table>
 

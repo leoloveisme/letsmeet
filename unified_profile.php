@@ -67,11 +67,11 @@ List of locations
 <a name="settings"></a><h2>Settings</h2>
 <a name="privacy"></a><strong>Privacy</strong>
 <br><br>
-Right now your profile is visible to (state of the profile's visibility: everyone, friends, none)
+My profile is visible to: (state of the profile's visibility: everyone, friends, none)
 <br><br>
 I can be contacted by: (everyone, friends, none)
 <br><br>
-Let others share my profile Yes
+Let others share my profile: (yes, no)
 <br><br>
 <?php include ("notifications.php"); ?>
 <a name="verifications"></a><strong>Verifications</strong>
@@ -133,8 +133,25 @@ Self description output
 Show as 
 <select name="friends">
 <OPTION SELECTED VALUE="">List</OPTION>
+<OPTION VALUE="">Pictograms</OPTION>
 <OPTION>Photos</OPTION> 
 </select>
+<br><br>
+Peter Thiel 
+<br><br>
+You have contacted the person on: date time
+<br><br>
+Paul Graham 
+<br><br>
+You have contacted the person on: date time
+<br><br>
+Elon Musk 
+<br><br>
+You have contacted the person on: date time
+<br><br>
+Richard Branson 
+<br><br>
+You have contacted the person on: date time
 <br><br>
 <a name="interests"></a><strong>Interests</strong>
 <br><br>

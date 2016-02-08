@@ -16,13 +16,9 @@
 <br>
 <a href="detailed_search_results.php" title="" target="">Detailed search</a>
 </td>
-<td width=50% align=right>Язык интерфейса <SELECT NAME="interface_language">
-<OPTION SELECTED VALUE="">English</OPTION>
-<OPTION>Deutsch</OPTION>
-<OPTION>French</OPTION>
-<OPTION>Русский</OPTION>
-<OPTION>中文</OPTION>
-</SELECT> <a href="sign-up.php" target="" title="">Sign-up</a> | <a href="login.php" target="" title="">Login</a> | <a href="support.php" target="" title="">Help</a> <button title="Зарегистрироваться как человек ищущий общение">Хочу найти общение</button></td>
+<td width=50% align=right>
+Hello wanderer, <a href="sign-up.php" target="" title="">Sign-up</a> | <a href="login.php" target="" title="">Login</a> | <a href="support.php" target="" title="">Help</a> 
+</td>
 </tr>
 </table>
 

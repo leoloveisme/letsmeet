@@ -26,7 +26,7 @@
 </tr>
 <td colspan=4 valign=top>Notifications should go to this e-mail address 
 <br>  
-<button>+</button>
+<button title="Add a new e-mail address">+</button>
 <br><br>
 </td>
 </tr>
@@ -53,7 +53,7 @@
 <tr>
 <td colspan=4>Notifications should go to this mobile
 <br> 
-<button>+</button>
+<button title="Add a new mobile phone">+</button>
 <br><br>
 </td>
 </tr>
